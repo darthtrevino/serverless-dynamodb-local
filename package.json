@@ -39,7 +39,7 @@
         "aws-sdk": "^2.3.19",
         "bluebird": "^3.0.6",
         "dynamodb-localhost": "0.0.5",
-        "dynamodb-migrations": "0.0.10",
+        "dynamodb-migrations": "darthtrevino/dynamodb-migrations#deb4aaa4ccfa1fa02f8ce6b5f675136543a9ed82",
         "lodash": "^4.13.1",
         "mkdirp": "^0.5.0",
         "tar": "^2.0.0"
